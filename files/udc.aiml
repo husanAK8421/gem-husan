@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+	<pattern>WHERE IS BRISTOL</pattern>
+	<template>In the South-West of the U.K.</template>
+</category>
+
+<category>
+	<pattern>WHERE IS LONDON</pattern>
+	<template>Roughly half-way between Hatfield and Severnoaks</template>
+</category>
+
+<category>
+	<pattern>WHERE IS UWE</pattern>
+	<template>In north Bristol</template>
+</category>
+
+<category>
+	<pattern>WHEREABOUTS IS BEAUTY PLEASE?</pattern>
+	<template>In the eye of the beholder</template>
+</category>
+
+<category>
+	<pattern>WHEREABOUTS IS BEAUTY PLEASE?</pattern>
+	<template>In the eye of the beholder</template>
+</category>
+
+</aiml>
