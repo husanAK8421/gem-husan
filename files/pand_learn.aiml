@@ -3,13 +3,23 @@
 <!-- insert your AIML categories here -->
 
 <category>
-	<pattern>WHERE IS BATH</pattern>
-	<template>In Somerset</template>
+	<pattern>WHERE IS BRISTOL</pattern>
+	<template>In the South-West of the U.K.</template>
+</category>
+
+<category>
+	<pattern>WHERE IS LONDON</pattern>
+	<template>Roughly half-way between Hatfield and Severnoaks</template>
 </category>
 
 <category>
 	<pattern>WHERE IS BATH</pattern>
 	<template>In Somerset</template>
+</category>
+
+<category>
+	<pattern>WHERE IS UWE</pattern>
+	<template>In north Bristol</template>
 </category>
 
 <category>
@@ -70,16 +80,6 @@
 <category>
 	<pattern>WHERE IS UWE PLEASE</pattern>
 	<template>In north Bristol</template>
-</category>
-
-<category>
-	<pattern>WHEREABOUTS IS BEAUTY PLEASE?</pattern>
-	<template>In the eye of the beholder</template>
-</category>
-
-<category>
-	<pattern>WHEREABOUTS IS BEAUTY PLEASE?</pattern>
-	<template>In the eye of the beholder</template>
 </category>
 
 <category>
@@ -184,7 +184,7 @@
 
 <category>
 	<pattern>WHAT IS BRISTOL</pattern>
-	<template>Bristol is a city</template>
+	<template>Bristol is a city.</template>
 </category>
 
 <category>
@@ -194,7 +194,7 @@
 
 <category>
 	<pattern>WHAT IS LONDON</pattern>
-	<template>London is a city</template>
+	<template>London is a city.</template>
 </category>
 
 <category>
@@ -225,16 +225,6 @@
 <category>
 	<pattern>WHAT IS THE POPULATION OF LONDON</pattern>
 	<template>The population of London is about 8.6 million</template>
-</category>
-
-<category>
-	<pattern>WHAT IS UWE</pattern>
-	<template>I do not have an answer for tha</template>
-</category>
-
-<category>
-	<pattern>WHAT IS UWE</pattern>
-	<template>I do not have an answer for that</template>
 </category>
 
 <category>
